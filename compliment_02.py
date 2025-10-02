@@ -1,8 +1,8 @@
 # FILE NAME - compliment_02.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Andrew Hutchinson
+# DATE: 10/02/2025
+# BRIEF DESCRIPTION:  compliment 2 lab
 
 
 
